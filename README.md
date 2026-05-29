@@ -76,6 +76,11 @@ sql practice/
 
 ---
 
+## 📸 Dashboard Preview
+![Ecommerce Dashboard](Screenshot.png)
+
+---
+
 ## 👤 Author
-**[krishna srivastava**  
+**krishna srivastava**  
 Aspiring Data Analyst  
