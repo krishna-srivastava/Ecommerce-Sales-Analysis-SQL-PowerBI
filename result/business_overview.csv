@@ -1,0 +1,2 @@
+total_orders,TOTAL_CITES,unique_customers,total_revenue,avg_order_value,biggest_order,smallest_order
+5000,20,995,189080552.92,37816.11,156159.59,139.69
